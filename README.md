@@ -117,6 +117,8 @@ plt.title('RF vs LR vs SVM ')
 
 plt.show()
 
+<img width="960" alt="Screenshot 2024-04-10 230417" src="https://github.com/Maheshreddy1356/Crime-Rate-Analysis-AndPrediction-Using-Machine-Learning/assets/123810091/356ef19b-e3a2-4544-9135-693d65c77d27">
+
 
 
 
