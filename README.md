@@ -69,6 +69,9 @@ After feature selection location and month attribute are used for training.The d
 
 The algorithm model is imported from sklearn.
 
+![Screenshot 2024-04-11 004251](https://github.com/Maheshreddy1356/Crime-Rate-Analysis-AndPrediction-Using-Machine-Learning/assets/123810091/2f47f914-4bbf-40f9-bd38-205d36f3dd30)
+
+
 Building models is done using models. Fit(X_train,Y_train)
 
 from sklearn.model_selection import train_test_split
