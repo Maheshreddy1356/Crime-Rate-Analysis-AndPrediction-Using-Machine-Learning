@@ -2,7 +2,7 @@
 "CRIME RATE ANALYSIS AND PREDICTION USING MACHINE LEARNING"
 
 [
-![image](https://github.com/Maheshreddy1356/Crime-Rate-Analysis-AndPrediction-Using-Machine-Learning/assets/123810091/4f9657c4-b6d0-4e39-ae89-1bb45f02d5ef)
+![image](https://github.com/Maheshreddy1356/Crime-Rate-Analysis-AndPrediction-Using-Machine-Learning/assets/123810091/0d0dff6f-815b-4716-ad3a-1e11711cdf77)
 ](url)
 
 # Libraries used in this Project:
