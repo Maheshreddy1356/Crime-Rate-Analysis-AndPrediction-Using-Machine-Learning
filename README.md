@@ -22,7 +22,9 @@
 ![image](https://github.com/Maheshreddy1356/Crime-Rate-Analysis-AndPrediction-Using-Machine-Learning/assets/123810091/5584d84d-38ae-4d92-9812-a92c1db91dcc)
 ](url)   [
 ![image](https://github.com/Maheshreddy1356/Crime-Rate-Analysis-AndPrediction-Using-Machine-Learning/assets/123810091/4d53ba70-9859-4a00-8cc8-403500712b49)
-](url)         [
+](url)     [
+![image](https://github.com/Maheshreddy1356/Crime-Rate-Analysis-AndPrediction-Using-Machine-Learning/assets/123810091/f4cce7f4-92bc-4c6a-b658-ab339cf12d0f)
+](url)       [
 ![image](https://github.com/Maheshreddy1356/Crime-Rate-Analysis-AndPrediction-Using-Machine-Learning/assets/123810091/4d53ba70-9859-4a00-8cc8-403500712b49)
 ](url)     [
 ![image](https://github.com/Maheshreddy1356/Crime-Rate-Analysis-AndPrediction-Using-Machine-Learning/assets/123810091/7c533c1a-dde3-4853-b264-f443e5290d44)
