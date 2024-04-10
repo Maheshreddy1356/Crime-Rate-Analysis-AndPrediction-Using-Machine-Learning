@@ -14,3 +14,7 @@
 ![image](https://github.com/Maheshreddy1356/Crime-Rate-Analysis-AndPrediction-Using-Machine-Learning/assets/123810091/ab799e8b-1ea7-4573-b18f-4ae52e2ee7cd)
 ](url)
 # Domain --->
+[
+![image](https://github.com/Maheshreddy1356/Crime-Rate-Analysis-AndPrediction-Using-Machine-Learning/assets/123810091/83901c4b-722c-47ee-908a-42bad2b322fa)
+](url)
+# Accuracy --->
