@@ -31,4 +31,99 @@
 ](url)      [
 ![image](https://github.com/Maheshreddy1356/Crime-Rate-Analysis-AndPrediction-Using-Machine-Learning/assets/123810091/4f39aa44-36a2-4193-9ec4-09fd7de5bcb3)
 ](url)          <img width="960" alt="Screenshot 2024-04-10 230417" src="https://github.com/Maheshreddy1356/Crime-Rate-Analysis-AndPrediction-Using-Machine-Learning/assets/123810091/852e672d-3504-48ec-8d60-c5c86b6e048e">
+# Module Descriptions --->
+
+This project consists of six modules:
+
+# 1.Data Collection Module:
+
+Crime dataset from Kaggle is used in CSV format.
+
+# 2.Data Preprocessing Module:
+
+Before using libraries we have to import the libraries first.
+
+import numpy as np
+
+import pandas as pd
+
+from matplotlib import pyplot as pt
+
+d=pd.read_csv("crime.csv")
+
+Load the data set by using pandas library and checks whether it has null values or not.
+
+d.isnull().sum()
+
+If the dataset consists of null values then we remove the null values in this module by using:
+
+d=d.dropna()
+
+# 3.Feature Selection Module:
+
+Feature selection is done which can be used to build the model.The attributes used for feature selection  are Block,Location,District,etc.
+
+# 4.Building and Training Module:
+
+After feature selection location and month attribute are used for training.The dataset is divided into pairs of X_train,Y_train,X_test,Y_test.
+
+The algorithm model is imported from sklearn.
+
+Building models is done using models. Fit(X_train,Y_train)
+
+from sklearn.model_selection import train_test_split
+
+X_train,X_tes,Y_train,Y_test = train_test_split(x,y,test_size=0.2,random_state=0)
+
+from sklearn.ensemble import RandomForestClassifier
+
+random_forest = RandomForestClassifier(n_estimators=100)
+
+random_forest.fit(X_train,Y_train)
+
+# 5.Prediction Module:
+
+After the model is built using the above process,prediction is done using model.predict(X_test).
+
+The accuracy is calculated using accuracy_score imported from metrics-metrics.accuracy_score(Y_test,pred).
+
+pred=random_forest.predict(X_test)
+
+from sklearn.metrics import accuracy_score,classification_report
+
+acc = accuracy_score(pred,Y_test)
+
+clf = classification_report(pred,Y_test)
+
+# 6.Visualization Module:
+
+Using matplotlib library from sklearn.Analysis of the crime dataset is done by plotting various graphs for best accuracy model.
+
+from matplotlib import pyplot as plt;plt.rcdefaults()
+
+objects = ('Random Forest','Logistic Regression','Support Vector')
+
+y_pos = np.arange(len(objects))
+
+performace = [acc1,acc2,acc3]
+
+plt.bar(y_pos,performance,align='center',alpha=0.5)
+
+plt.xticks(y_pos,objects)
+
+plt.ylabel('Accuracy')
+
+plt.title('RF vs LR vs SVM ')
+
+plt.show()
+
+
+
+
+
+
+
+
+
+
 
