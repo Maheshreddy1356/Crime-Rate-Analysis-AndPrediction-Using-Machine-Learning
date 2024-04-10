@@ -20,4 +20,4 @@
 # Accuracy --->
 [
 ![image](https://github.com/Maheshreddy1356/Crime-Rate-Analysis-AndPrediction-Using-Machine-Learning/assets/123810091/5584d84d-38ae-4d92-9812-a92c1db91dcc)
-](url)
+](url) 
