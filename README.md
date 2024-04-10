@@ -63,6 +63,9 @@ d=d.dropna()
 
 Feature selection is done which can be used to build the model.The attributes used for feature selection  are Block,Location,District,etc.
 
+![Screenshot 2024-04-11 004315](https://github.com/Maheshreddy1356/Crime-Rate-Analysis-AndPrediction-Using-Machine-Learning/assets/123810091/ad338f06-48af-41d6-a820-e6f13273aae5)
+
+
 # 4.Building and Training Module:
 
 After feature selection location and month attribute are used for training.The dataset is divided into pairs of X_train,Y_train,X_test,Y_test.
